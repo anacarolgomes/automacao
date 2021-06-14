@@ -1,4 +1,4 @@
-# Desafio de Automação
+# Automação
 Este projeto tem como objetivo um desafio de Automação.
 Aqui foram feitos dois casos de teste com Java, Selenium e o uso do framework Cucumber. Os casos de teste foram escritos em gherkin. O projeto foi desenvolvido na IDE Elipse última versão disponível para download.
 
